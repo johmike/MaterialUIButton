@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.DS_Store
+dist
+.cache
+yarn.lock
+server
+start_package.json
+src/core/config.ts
